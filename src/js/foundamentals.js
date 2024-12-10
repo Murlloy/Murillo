@@ -24,6 +24,7 @@ console.log(maria)
 let pessoa = {
 
     nome: "maria",     // atributo
+    sobrenome: "nicacio",
     idade: 17,         // atributo
     sexo: feminino     // atribute
 
